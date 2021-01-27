@@ -18,3 +18,4 @@ Known Bugs:
   - Players are able to remove LC armor (The leather) if they shift-click on it.
       Progress - Unsure how to fix
   - Cannot blacklist the placement of entities (i.e. minecarts, spawn eggs, etc)
+      Progress - Will be implemented sometime this week
