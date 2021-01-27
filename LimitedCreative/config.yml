@@ -1,0 +1,8 @@
+reload-message: "&c&lLimitedCreative blacklisted-blocks config reloaded!"
+  
+blacklisted-blocks:
+  DIAMOND_BLOCK:
+  BEDROCK:
+  EMERALD_BLOCK:
+  NETHERITE_BLOCK:
+  HAY_BLOCK:
