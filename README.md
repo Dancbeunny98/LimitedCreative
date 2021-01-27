@@ -5,8 +5,8 @@ Check out the video for this plugin!
 [Youtube Showcase](https://youtu.be/Z21t_WqM8ho)
 
 ## Features:
-- Custom blacklisted blocks - refer to the config.yml (use block names, i.e. diamond_block)
-- Custom blacklisted interactables - refer to the config.yml (use block names, i.e. trapped_chest)
+- Custom blacklisted blocks - refer to the config.yml **(use block names, i.e. diamond_block)**
+- Custom blacklisted interactables - refer to the config.yml **(use block names, i.e. trapped_chest)**
 
 
 ## Permissions:
@@ -15,8 +15,8 @@ Check out the video for this plugin!
 
 ## Known Bugs:
   - Players are able to remove LC armor (The leather) if they shift-click on it.
-      Progress - Unsure how to fix
+      **Progress - Unsure how to fix**
   - Cannot blacklist the placement of entities (i.e. minecarts, spawn eggs, etc).
-      Progress - Will be implemented sometime this week
+      **Progress - Will be implemented sometime this week**
 
 The "master" branch contains the code for this project.
