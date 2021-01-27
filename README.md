@@ -5,8 +5,9 @@ Check out the video for this plugin!
 [Youtube Showcase](https://youtu.be/Z21t_WqM8ho)
 
 ## Features:
-- Custom blacklisted blocks - refer to the config.yml
-- Custom blacklisted interactables - refer to the config.yml
+- Custom blacklisted blocks - refer to the config.yml (use block names, i.e. diamond_block)
+- Custom blacklisted interactables - refer to the config.yml (use block names, i.e. trapped_chest)
+
 
 ## Permissions:
  - "limitedcreative" - the base permission allowing one to run the /limitedcreative or /lc command. Also allows them to give LC to other players.
