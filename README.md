@@ -17,7 +17,7 @@ Check out the video for this plugin!
   - Players are able to remove LC armor (The leather) if they shift-click on it.
       **Progress - Unsure how to fix**
 
-The "master" branch contains the code for this project.
-
 # How To Use
 To use this plugin, all you, as the user, has to do is place the LimitedCreative.jar file into your "Plugins" folder on your 1.13+ server. After booting up the server for the first time, a folder within your plugins folder named "LimitedCreative" is made. Inside that folder is a config.yml file, which you can configure. 
+
+### The "master" branch contains the code for this project.
