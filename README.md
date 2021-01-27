@@ -11,3 +11,9 @@ Permissions:
   "limitedcreative.admin" - users with this are given permission to bypass the blacklist for blocks and interactables.
 
 The "master" branch contains the code for this project.
+
+Known Bugs:
+  - Players are able to remove LC armor (The leather) if they shift-click on it.
+    Progress - Unsure how to fix
+  - Some blocks (i.e. minecarts and its variants) are still allowed to be placed even when put in blacklisted blocks.
+    Progress - I think I know how to fix, will begin working on it
