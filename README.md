@@ -16,6 +16,6 @@ The "master" branch contains the code for this project.
 
 Known Bugs:
   - Players are able to remove LC armor (The leather) if they shift-click on it.
-    Progress - Unsure how to fix
+      Progress - Unsure how to fix
   - Some blocks (i.e. minecarts and its variants) are still allowed to be placed even when put in blacklisted blocks.
-    Progress - I know the issue, but not the fix
+      Progress - I know the issue, but not the fix
