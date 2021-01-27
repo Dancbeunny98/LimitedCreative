@@ -1,6 +1,8 @@
 # LimitedCreative
 
 A plugin meant for allowing the server owner/developer to give out creative mode with restrictions.
+Check out the video for this plugin!
+https://youtu.be/Z21t_WqM8ho
 
 Features:
 Custom blacklisted blocks - refer to the config.yml
