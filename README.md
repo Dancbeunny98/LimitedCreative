@@ -26,4 +26,6 @@ To use this plugin, all you, as the user, has to do is place the LimitedCreative
 ### The "master" branch contains the code for this project.
 
 ### Resources
-[Youtube Showcase](https://youtu.be/Z21t_WqM8ho) [SpigotMC Page](https://www.spigotmc.org/resources/limitedcreative.88444/)
+[Youtube Showcase](https://youtu.be/Z21t_WqM8ho)
+
+[SpigotMC Page](https://www.spigotmc.org/resources/limitedcreative.88444/)
